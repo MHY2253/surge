@@ -8,3 +8,5 @@
 
 ### 规则链接
 
+[1.apple](https://raw.githubusercontent.com/MHY2253/surge/master/apple.list)
+

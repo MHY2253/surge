@@ -1,6 +1,6 @@
 <h1 align="center">Surge自用配置模块和规则</h1>
 
-## 配置链接
+### 配置链接
 
 [1.自用配置](https://raw.githubusercontent.com/MHY2253/surge/master/surge.conf)
 

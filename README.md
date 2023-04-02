@@ -8,12 +8,12 @@
 
 ### 规则链接
 
-[1.apple](https://raw.githubusercontent.com/MHY2253/surge/master/apple.list)
+[apple](https://raw.githubusercontent.com/MHY2253/surge/master/apple.list)
 
-[2.blocked](https://raw.githubusercontent.com/Blankwonder/surge-list/master/blocked.list)
+[blocked](https://raw.githubusercontent.com/Blankwonder/surge-list/master/blocked.list)
 
-[3.cn](https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list)
+[cn](https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list)
 
-[4.netflix](https://raw.githubusercontent.com/Blankwonder/surge-list/master/netflix.list)
+[netflix](https://raw.githubusercontent.com/Blankwonder/surge-list/master/netflix.list)
 
-[5.telegram](https://raw.githubusercontent.com/Blankwonder/surge-list/master/telegram.list)
+[telegram](https://raw.githubusercontent.com/Blankwonder/surge-list/master/telegram.list)

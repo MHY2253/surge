@@ -13,3 +13,7 @@
 [2.blocked](https://raw.githubusercontent.com/Blankwonder/surge-list/master/blocked.list)
 
 [3.cn](https://raw.githubusercontent.com/Blankwonder/surge-list/master/cn.list)
+
+[4.netflix](https://raw.githubusercontent.com/Blankwonder/surge-list/master/netflix.list)
+
+[5.telegram](https://raw.githubusercontent.com/Blankwonder/surge-list/master/telegram.list)

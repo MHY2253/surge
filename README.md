@@ -1,6 +1,6 @@
 # surge
 
-## 配置
+## 配置链接
 
 [1.自用配置](https://raw.githubusercontent.com/MHY2253/surge/master/surge.conf)
 

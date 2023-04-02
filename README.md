@@ -6,5 +6,5 @@
 
 > **中国区最小配置 :** https://raw.githubusercontent.com/MHY2253/surge/master/最小配置.conf <br>
 
-## 规则链接
+### 规则链接
 

@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,embyvip.misakaf.org
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
@@ -18,5 +20,15 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,disney
 DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,reddit
+DOMAIN-KEYWORD,mypikpak
+DOMAIN-KWYWORD,spotify
+USER-AGENT,Disney+*
+USER-AGENT,Spotify*
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,com.google.ios.youtube*
 

@@ -1,7 +1,11 @@
 # China Apps
+USER-AGENT,Bilibili*
+USER-AGENT,bili*
+USER-AGENT,bili-inter*
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
 USER-AGENT,MApi* // Dianping
+DOMAIN-SUFFIX,weixin.com
 # Ali
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
@@ -12,5 +16,16 @@ IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 # China
+DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,CN
+DOMAIN-SUFFIX,cainxin.com
 DOMAIN-KEYWORD,baidu
+# zhihu
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+IP-CIDR,103.41.167.226/32,no-resolve
+IP-CIDR,103.41.167.234/31,no-resolve
+IP-CIDR,103.41.167.236/32,no-resolve
+IP-CIDR,118.89.204.198/32,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
+

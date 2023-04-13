@@ -2,6 +2,6 @@
 
 ### 配置链接
 
-> **自用配置 :** https://raw.githubusercontent.com/MHY2253/surge/master/surge.conf<br>
+> **自用配置 :** https://raw.githubusercontent.com/MHY2253/surge/master/conf/Surge.conf<br>
 
 > **最小配置 :** https://raw.githubusercontent.com/MHY2253/surge/master/surge.lite.conf<br>
